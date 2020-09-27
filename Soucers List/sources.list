@@ -1,0 +1,5 @@
+deb http://archive.ubuntu.com/ubuntu/ focal main restricted universe multiverse
+deb http://security.ubuntu.com/ubuntu/ focal-security main restricted universe multiverse
+deb http://archive.ubuntu.com/ubuntu/ focal-updates main restricted universe multiverse
+deb https://dl.winehq.org/wine-builds/ubuntu/ focal main
+# deb-src https://dl.winehq.org/wine-builds/ubuntu/ focal main

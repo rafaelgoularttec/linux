@@ -1,0 +1,9 @@
+# This is a sources.list entry for a small pool of packages
+# provided on your preinstalled filesystem for your convenience.
+#
+# It is perfectly safe to delete both this entry and the directory
+# it references, should you want to save disk space and fetch the
+# packages remotely instead.
+#
+deb [arch=amd64] file:/var/lib/preinstalled-pool/ focal main restricted universe multiverse
+#
